@@ -10,7 +10,8 @@ La documentación oficial está [aquí](https://docs.geoserver.org/latest/en/use
 
 En una terminal (ctrl+ alt + t) escribir: ```docker pull docker.osgeo.org/geoserver:2.24.x ```
 
-Img: Docker1
+![alt_text](images/Docker1.png "image_tooltip")
+
 
 Para correr el contenedor: 
 
