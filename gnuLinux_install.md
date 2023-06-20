@@ -25,16 +25,21 @@ en donde /home/martin/Documents/docker es la carpeta donde irán los shapes
 
 
 Comandos útiles:
+
 ```docker version```
 
 ```docker <comando> --help```
+
 ```docker version --help```
 
 ```docker images --help```
+
 ```docker images```
 
 ```docker image build --help```
+
 ```docker image build -t <tag/nombre que va a tener la imagen> <ubicacion Dockerfile>```
+
 ```docker image build -t <usuario>/<imagen> ```
 
 ```docker container ps --help ```
@@ -47,7 +52,13 @@ Si el docker ya fue creado
 ```docker container start --help```
 ```docker container start <ID del contenedor>```
 
+Borrar contenedores parados
 
+```docker system prune```
+
+Borrar contenedores
+
+```docker container rmi <id/tag de la imagen>```
 
 La interfaz de geoserver se ejecuta a través de un navegador. Escribir: 
 
