@@ -43,13 +43,16 @@ Comandos útiles:
 ```docker image build -t <usuario>/<imagen> ```
 
 ```docker container ps --help ```
+
 Para chequear los contenedores corriendo
 ```docker container ps ```
+
 Para chequear todos los contenedores (corriendo o no)
 ```docker container ps -a```
 
 Si el docker ya fue creado
 ```docker container start --help```
+
 ```docker container start <ID del contenedor>```
 
 Borrar contenedores parados
