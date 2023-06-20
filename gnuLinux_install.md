@@ -23,9 +23,31 @@ Si queremos utilizar el contenedor con una carpeta para poner data (shapes, etc)
 
 en donde /home/martin/Documents/docker es la carpeta donde irán los shapes
 
-Si el docker ya fue creado
 
-```sudo docker container start```
+Comandos útiles:
+```docker version```
+
+```docker <comando> --help```
+```docker version --help```
+
+```docker images --help```
+```docker images```
+
+```docker image build --help```
+```docker image build -t <tag/nombre que va a tener la imagen> <ubicacion Dockerfile>```
+```docker image build -t <usuario>/<imagen> ```
+
+```docker container ps --help ```
+Para chequear los contenedores corriendo
+```docker container ps ```
+Para chequear todos los contenedores (corriendo o no)
+```docker container ps -a```
+
+Si el docker ya fue creado
+```docker container start --help```
+```docker container start <ID del contenedor>```
+
+
 
 La interfaz de geoserver se ejecuta a través de un navegador. Escribir: 
 
