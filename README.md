@@ -41,8 +41,11 @@ Es importante señalar, que los pasos que sugerimos acá de instalación están 
 
 Por último, si preferís guiarte por la documentación oficial aca esta el [link](https://docs.geoserver.org/stable/en/user/installation/index.html) 
 
-Instalación en Windows
+* Instalación en Windows
 
-[Instalación en GNU-Linux](https://github.com/martinfernandoortiz/geoserver/blob/main/gnuLinux_install.md)
+* [Instalación en GNU-Linux](https://github.com/martinfernandoortiz/geoserver/blob/main/gnuLinux_install.md)
 
-Instalación Docker en Linux
+
+---
+
+<h3>Publicación</h3>
