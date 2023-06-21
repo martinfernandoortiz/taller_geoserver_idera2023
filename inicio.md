@@ -9,8 +9,8 @@ Para aprovechar se necesitan algunos prerrequisitos:
 
 * ganas de aprender
 * mates
-* conocimiento básico en Sistemas de Información Geográfico
-* conocimiento básico de cartografía
+* conocimientos básicos en Sistemas de Información Geográfico
+* conocimientos básicos de cartografía
 
 A su vez, se necesita que los participantes lleven una laptop con los siguientes software instalados: QGIS (versión 3 en adelante), Geoserver, algún editor de texto cómo (VS Codium u otros)
 
@@ -45,8 +45,13 @@ Por último, si preferís guiarte por la documentación oficial aca esta el [lin
 
 * [Instalación en GNU-Linux](https://github.com/martinfernandoortiz/geoserver/blob/main/gnuLinux_install.md)
 
+* OSGeo Live desde una máquina virtual
 
+* OSGeo Live desde un USB
 ---
 
 <h3>Publicación</h3>
-* [ublicación](https://github.com/martinfernandoortiz/geoserver/blob/main/publicar.md)
+
+* [Publicación](https://github.com/martinfernandoortiz/geoserver/blob/main/publicar.md)
+
+---
