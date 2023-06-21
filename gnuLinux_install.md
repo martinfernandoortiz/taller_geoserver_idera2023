@@ -26,6 +26,7 @@ en donde /home/martin/Documents/docker es la carpeta donde irán los shapes
 ---
 
 <h3> Comandos útiles: </h3>
+
 * Estructura básica de comandos ```docker <comando> --help```
 * Chequear versión```docker version``` 
 * Chequear versión con menú de ayuda```docker version --help```
