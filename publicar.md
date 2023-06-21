@@ -1,6 +1,6 @@
 
 
-La interfaz de geoserver se ejecuta a través de un navegador. Escribir: 
+La interfaz de geoserver se ejecuta a través de un navegador. Escribir la URL de acceso local: 
 
 
 ```
@@ -14,7 +14,7 @@ El usuario y contraseña predeterminado son: u: admin p: geoserver
 
 <h3>Espacios de Trabajo</h3>
 
-Los espacios de trabajo son: BLABLABLA
+Los espacios de trabajo son: contenedores lógicos que sirven para realizar distintos agrupamientos de datos con el fin de organizarlos y gestionaros. A cada espacio de trabajo se le pueden designar ajustes y configuraciones específicas afectando todo el conjunto de capas. Además, para cada espacio de trabajo se pueden configurar los usuarios y permisos de acceso para editar las capas.
 
 Para este ejemplo vamos a crear un espacio de trabajo que se va a llamar IDERA, el cual va a “ordenar” las capas que utilizaremos en este taller.
 
