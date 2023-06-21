@@ -49,3 +49,4 @@ Por último, si preferís guiarte por la documentación oficial aca esta el [lin
 ---
 
 <h3>Publicación</h3>
+* [ublicación](https://github.com/martinfernandoortiz/geoserver/blob/main/publicar.md)
