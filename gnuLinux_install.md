@@ -4,7 +4,7 @@
 <h3>Vía Docker</h3>
 
 
-Si usas alguna distribución GNU-Linux te sugerimos que optes por la instalación vía docker; de esta forma no vas a tener problemas de dependencias ni nada de eso. Solo necesitas tener instalado docker y docker compose y permisos de administrador.
+Si usas alguna distribución GNU-Linux te sugerimos que optes por la instalación vía docker; de esta forma no vas a tener problemas de dependencias ni nada de eso. Solo necesitas tener instalado docker, docker compose y permisos de administrador.
 
 La documentación oficial está [aquí](https://docs.geoserver.org/latest/en/user/installation/docker.html)
 
