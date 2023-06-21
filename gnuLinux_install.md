@@ -23,52 +23,23 @@ Si queremos utilizar el contenedor con una carpeta para poner data (shapes, etc)
 
 en donde /home/martin/Documents/docker es la carpeta donde irán los shapes
 
+---
 
-Comandos útiles:
+<h3> Comandos útiles: </h3>
 * Estructura básica de comandos ```docker <comando> --help```
 * Chequear versión```docker version``` 
 * Chequear versión con menú de ayuda```docker version --help```
 * Ver que imágenes tenemos ```docker images```
 * Crear imagen```docker image build --help```
 * Crear imagen con un tag y ubicación ```docker image build -t <tag/nombre que va a tener la imagen> <ubicacion Dockerfile>```
-
-```docker image build -t <usuario>/<imagen> ```
-
-```docker container ps --help ```
-
-Para chequear los contenedores corriendo
-```docker container ps ```
-
-Para chequear todos los contenedores (corriendo o no)
-```docker container ps -a```
-
-Si el docker ya fue creado
-```docker container start --help```
-
+* Para chequear los contenedores corriendo ```docker container ps --help ```
+* Para chequear todos los contenedores (corriendo o no) ```docker container ps -a```
+* Si el docker ya fue creado ```docker container start --help```
 ```docker container start <ID del contenedor>```
+* Para el contenedor ```docker container stop <id del contenedor>```
+* Matar el contenedor ```docker container kill <id del contenedor>```
+* Borrar contenedores parados  ```docker system prune```
+* Borrar contenedores ```docker container rmi <id/tag de la imagen>```
 
 
-docker container stop <id del contenedor>
-docker container kill <id del contenedor>
 
-
-Borrar contenedores parados
-
-```docker system prune```
-
-Borrar contenedores
-
-```docker container rmi <id/tag de la imagen>```
-
-La interfaz de geoserver se ejecuta a través de un navegador. Escribir: 
-
-
-```
-http://localhost:8080/geoserver
-```
-
-
-El usuario y contraseña predeterminado son: u: admin p: geoserver
-
-
-![alt_text](images/image1.png "image_tooltip")
