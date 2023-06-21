@@ -25,20 +25,12 @@ en donde /home/martin/Documents/docker es la carpeta donde irán los shapes
 
 
 Comandos útiles:
-
-```docker version```
-
-```docker <comando> --help```
-
-```docker version --help```
-
-```docker images --help```
-
-```docker images```
-
-```docker image build --help```
-
-```docker image build -t <tag/nombre que va a tener la imagen> <ubicacion Dockerfile>```
+* Estructura básica de comandos ```docker <comando> --help```
+* Chequear versión```docker version``` 
+* Chequear versión con menú de ayuda```docker version --help```
+* Ver que imágenes tenemos ```docker images```
+* Crear imagen```docker image build --help```
+* Crear imagen con un tag y ubicación ```docker image build -t <tag/nombre que va a tener la imagen> <ubicacion Dockerfile>```
 
 ```docker image build -t <usuario>/<imagen> ```
 
@@ -54,6 +46,11 @@ Si el docker ya fue creado
 ```docker container start --help```
 
 ```docker container start <ID del contenedor>```
+
+
+docker container stop <id del contenedor>
+docker container kill <id del contenedor>
+
 
 Borrar contenedores parados
 
