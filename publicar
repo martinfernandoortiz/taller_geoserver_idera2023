@@ -1,0 +1,14 @@
+
+
+La interfaz de geoserver se ejecuta a través de un navegador. Escribir: 
+
+
+```
+http://localhost:8080/geoserver
+```
+
+
+El usuario y contraseña predeterminado son: u: admin p: geoserver
+
+
+![alt_text](images/image1.png "image_tooltip")
