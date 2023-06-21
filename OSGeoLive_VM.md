@@ -1,6 +1,8 @@
 <h2> Configuración de OSGeoLive en Máquina Virtual</h2>
-Se necesita tener instalado [Oracle VM VirtualBox] (https://www.virtualbox.org/wiki/Downloads)
 
-https://youtu.be/1LFuuLXX0Jk
+*  ![Oracle VM VirtualBox] (https://www.virtualbox.org/wiki/Downloads)
+*  ![osgeolive-vm] (https://www.virtualbox.org/wiki/Downloads](https://download.osgeo.org/livedvd/releases/15.0/)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+
+[![Instalación y Configuración](https://img.youtube.com/vi/1LFuuLXX0Jk/0.jpg)](https://www.youtube.com/watch?v=1LFuuLXX0Jk)
