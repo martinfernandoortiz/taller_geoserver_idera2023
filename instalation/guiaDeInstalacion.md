@@ -9,9 +9,9 @@ Es importante señalar, que los pasos que sugerimos acá de instalación están 
 
 * [Instalación en Windows (vía docker)](https://github.com/martinfernandoortiz/taller_geoserver_idera2023/blob/main/instalation/windows_docker.md)
 
-* [Instalación en GNU-Linux (via docker)](https://github.com/martinfernandoortiz/geoserver/blob/main/gnuLinux_install.md)
+* [Instalación en GNU-Linux (via docker)](https://github.com/martinfernandoortiz/taller_geoserver_idera2023/blob/main/instalation/linux_docker.md)
 
-* [OSGeo Live](https://github.com/martinfernandoortiz/taller_geoserver_idera2023/blob/main/OSGeoLive_VM.md)
+* [OSGeo Live](https://github.com/martinfernandoortiz/taller_geoserver_idera2023/blob/main/instalation/OSgeoLive.md)
 
 
 
