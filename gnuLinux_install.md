@@ -19,7 +19,11 @@ Para correr el contenedor:
 
 Si queremos utilizar el contenedor con una carpeta para poner data (shapes, etc) debemos correr
 
-```sudo docker run --mount type=bind,src=/home/martin/Documents/docker,target=/opt/geoserver_data -it -p8080:8080 docker.osgeo.org/geoserver:2.24.x ```
+```docker run --mount type=bind,src=/home/martin/Documents/docker,target=/opt/geoserver_data -it -p8080:8080 docker.osgeo.org/geoserver:2.24.x ```
+
+o sino 
+
+```docker run -v /home/martin/Documents/docker:/opt/geoserver_data -it -p8080:8080 docker.osgeo.org/geoserver:2.24.x```
 
 en donde /home/martin/Documents/docker es la carpeta donde irán los shapes
 
