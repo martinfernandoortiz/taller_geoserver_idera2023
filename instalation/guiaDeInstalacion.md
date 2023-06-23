@@ -5,7 +5,7 @@ Para aprovechar el taller, **sugerimos tener geoserver instalado**. Existen múl
 Es importante señalar, que los pasos que sugerimos acá de instalación están pensados para la realización del taller y no para un entorno de producción. Para esto último, no dudes en consultar a tu informático amigo ;)
 
 
-* Instalación en Windows
+* [Instalación en Windows](https://github.com/martinfernandoortiz/taller_geoserver_idera2023/blob/main/instalation/windows.md)
 
 * [Instalación en Windows (vía docker)](https://github.com/martinfernandoortiz/taller_geoserver_idera2023/blob/main/instalation/windows_docker.md)
 
