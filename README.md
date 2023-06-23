@@ -3,7 +3,7 @@
 
 El siguiente material acompaña al taller de estilos a dictarse en las jornadas de IDERA 2023. 
 
-Para aprovechar se necesitan algunos prerrequisitos: 
+Para aprovechar se necesitan algunos prerequisitos: 
 
 * ganas de aprender
 * mates
