@@ -32,6 +32,8 @@ Necesitas cualquier programa para generar un usb de arranca (booteable).
 2. Seleccionas el Pendrive
 3. Tocas flash
 4. Reinicias y tenes que seleccionar desde el BIOS que bootee primero el USB
+
+Si en algún momento necesitas volver a restaurar tu usb, seguí éstos pasos : https://www.pendrivelinux.com/restoring-your-usb-key-partition/#DiskPart_Has_Encountered_an_Error
 ---
 
 <h3>Cómo arrancar Geoserver?</h3>
